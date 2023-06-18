@@ -38,3 +38,7 @@
    define reducer
    update fetch data
    get state from usReducer
+
+10. Add bootstrap UI Framework
+    npm install react-bootstrap bootstrap
+    update App.js
