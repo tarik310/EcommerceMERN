@@ -69,3 +69,7 @@
     click handler for inc/dec item
     click handler for remove item
     click handler for checkout
+18. Create Signin Screen
+    create sign in form
+    add email and password
+    add signin button
