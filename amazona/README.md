@@ -73,3 +73,13 @@
     create sign in form
     add email and password
     add signin button
+
+19. Connect To MongoDB Database
+    create atlas monogodb database
+    install local mongodb database
+    npm install mongoose
+20. Seed Sample Products
+    create Product model
+    create seed route
+    use route in server.js
+    seed sample product
