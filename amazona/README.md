@@ -58,3 +58,6 @@
     Create React Context
     define reducer
     create store provider
+15. Complete Add To Cart
+    check exist item in the cart
+    check count in stock in backend
