@@ -94,3 +94,7 @@
     handle submit action
     save token in store and local storage
     show user name in header
+24. Create Shipping Screen
+    create form inputs
+    handle save shipping address
+    add checkout wizard bar
