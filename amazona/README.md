@@ -108,3 +108,6 @@
 27. Create Place Order Screen
     show cart items, payment and address
     calculate order summary
+28. Implement Place Order Action
+    handle place order action
+    create order create api
