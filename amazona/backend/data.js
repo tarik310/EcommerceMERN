@@ -18,7 +18,7 @@ const data = {
     {
       name: "Nike Slim shirt",
       slug: "nike-silm-shirt",
-      category: "shirt",
+      category: "shirts",
       image: "/images/p1.jpg",
       price: 120,
       countInStock: 0,
@@ -30,7 +30,7 @@ const data = {
     {
       name: "Adidas Fit shirt",
       slug: "adidas-fit-shirt",
-      category: "shirt",
+      category: "shirts",
       image: "/images/p2.jpg",
       price: 250,
       countInStock: 200,

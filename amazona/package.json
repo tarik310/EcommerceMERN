@@ -1,0 +1,21 @@
+{
+  "name": "amazona",
+  "version": "1.0.0",
+  "description": "1. Introduction\r 2. Insall Tools\r 3. Create React App\r 4. Create Git Repository\r 5. List Products\r    create products array\r    add product images\r    render products\r    style products\r 6. Add page routing\r    npm i react-router-dom\r    create route for home screen\r    create router for product screen\r 7. Create Node.JS Server\r    run npm init in root folder\r    Update package.json set type: module\r    Add .js to imports\r    npm install express\r    create server.js\r    add start command as node backend/server.js\r    require express\r    create route for / return backend is ready.\r    move products.js from frontend to backend\r    create route for /api/products\r    return products\r    run npm start\r 8. Fetch Products From Backend xx\r    set proxy in package.json\r    npm install axios\r    use state hook\r    use effect hook\r    use reducer hook\r 9. Manage State By Reducer Hook xx\r    define reducer\r    update fetch data\r    get state from usReducer",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm install && cd ../frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarik310/EcommerceMERN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarik310/EcommerceMERN/issues"
+  },
+  "homepage": "https://github.com/tarik310/EcommerceMERN#readme"
+}
